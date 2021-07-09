@@ -13,11 +13,11 @@ base=https://github.com/docker/machine/releases/download/v0.16.0 \
 && chmod +x /usr/local/bin/docker-machine
 ````
 ### 4. Install docker
-#### Using snap
-##### Prepare snap
-`$ sudo apt update`
-`$ sudo apt install snapd`
-##### Install docker
+#### **Using snap**
+  ##### Prepare snap
+  `$ sudo apt update`
+  `$ sudo apt install snapd`
+  ##### Install docker
 ````
 $ sudo snap install docker
 ````
